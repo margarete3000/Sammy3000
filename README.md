@@ -22,15 +22,14 @@
 
  
 ```javascript
-const Sammy = {
-  fullName: "Towett Sammy",
+const Sambu = {
+  fullName: "Margarete Sambu",
   Studies:Computer Science Degree,
   studentAt: "Microverse",
   currentlyLearning: Javascript,
   lookingFor: "Front-end development opportunities" || "Full-stack web developement",
   challenge: "Road to being the best by constantly improving my skills",
   askMeAbout: ["Front-End web dev", "Football"],
-  telephoneNumber: "+254743793661",
   funFacts: ["I love watching good movies and TV shows", 
   "My Passion for tech keeps me going"]
 }
